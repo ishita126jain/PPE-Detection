@@ -30,7 +30,15 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-    
+
+## Training the Model
+1. Download YOLOv8 model from Roboflow:
+
+- Download the YOLOv8 model file from [Roboflow](https://universe.roboflow.com/) and place it in the weights/ directory.
+
+2. Train the model on Google Colab:
+
+- Follow the steps outlined in the colab file (Yolov8.ipynb) to train the model using your custom dataset.
 ## Usage
 
 1. Prepare your video:
@@ -66,11 +74,3 @@ If you find any issues or have suggestions for improvements, feel free to create
 
 ## Contact
 For any questions or inquiries, please contact us at [ishita126jain@gmail.com](ishita126jain@gmail.com).
-## Training the Model
-1. Download YOLOv8 model from Roboflow:
-
-- Download the YOLOv8 model file from [Roboflow](https://universe.roboflow.com/) and place it in the weights/ directory.
-
-2. Train the model on Google Colab:
-
-- Follow the steps outlined in the colab file (Yolov8.ipynb) to train the model using your custom dataset.
