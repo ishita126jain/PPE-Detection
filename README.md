@@ -6,7 +6,8 @@
 
 ## 
 
-![Car Counter](https://drive.google.com/file/d/1s9XFb32b7FdT_10hGuMj47eKoL_uc2XX/view?usp=sharing)
+
+![ss](https://github.com/ishita126jain/PPE-Detection/assets/91709949/0201e29c-e186-46d7-99fc-6104059af6fb)
 
 
 ## Introduction
