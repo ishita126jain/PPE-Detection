@@ -47,7 +47,7 @@ pip install -r requirements.txt
 - Place your video file in the project directory.
 
 
-2. Run the Car Counter:
+2. Run the PPE Detection:
 ```bash
 python PPE-Detection.py 
 ``` 
